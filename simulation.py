@@ -145,3 +145,4 @@ print(f"[STATS] ANOVA p-value (QINF vs baselines): {p:.4e}")
 print("\n[INFO] Simulation completed successfully")
 print("[INFO] All figures saved in:", PLOT_DIR)
 print("[INFO] This pipeline is fully automatic and reproducible")
+
